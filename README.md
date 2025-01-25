@@ -1,5 +1,5 @@
 # Flight-Ticket-Booking
-# **Flight Ticket Booking Servlet Project**
+
 
 This project is a **real-time** **Flight Ticket Booking System** developed using **Servlets**, **JSP**, **JDBC**, and **MySQL Workbench**. It allows users to **search** for flights, **book tickets**, and **manage bookings**, while providing **administrators** with tools for flight and user management.
 
